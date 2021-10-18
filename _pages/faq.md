@@ -4,9 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq/
 ---
 
----
-
-**Q:** Is this is real coin?
+**Q:** Is this a real coin?
 
 **A:** Skepticoin is every bit as real as Bitcoin and its many clones.
 
@@ -37,7 +35,8 @@ permalink: /faq/
 **A:** If you're asking you're probably looking for one. If you're buying skepticoin in the hope that some greater fool
        will buy them from you at a higher price, just know that, on average, it's likely that you're the greatest fool.
 
----
+
+## Frequently raised objections
 
 **O:** I can't buy skepticoin at an exchange -- this means it's not a "real" coin!
 
