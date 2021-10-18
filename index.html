@@ -3,6 +3,20 @@ layout: default
 ---
 
 <div class="posts">
+
+   <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h1>What is Skepticoin?</h1>
+
+      </a>
+      <div class="entry">
+        Skepticoin is a peer-to-peer digital currency that enables you to send money
+        online. It's also the central community of people who think that's bullshit.
+      </div>
+
+      <a href="{{ site.baseurl }}/about/" class="read-more">Read More</a>
+    </article>
+
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
